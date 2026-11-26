@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/system/Архив/Причуды/Термины/Кубики/Бонус к ToL/","noteIcon":"","created":"2025-08-21T13:47:43.302+03:00","updated":"2025-09-24T17:44:19.250+03:00","dg-note-properties":{"aliases":["бонус","Бонус","штраф","Штраф"]}}
+{"dg-publish":true,"permalink":"/system/Архив/Причуды/Термины/Кубики/Бонус к ToL/","noteIcon":"","created":"2025-08-21T13:47:43.302+03:00","updated":"2026-11-26T15:59:59.806+03:00","dg-note-properties":{"aliases":["бонус","Бонус","штраф","Штраф"]}}
 ---
 
 
